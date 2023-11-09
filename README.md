@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)]
+![MasterHead](https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif)
 <h1 align="center">Hi 👋, I'm Talha Arshad</h1>
 <h3 align="center">Hello, fellow developers! I'm Talha, a passionate Flutter developer exploring the realms of mobile app development. This repository serves as my playground, where I experiment with Flutter widgets, design patterns, and all things Dart.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
