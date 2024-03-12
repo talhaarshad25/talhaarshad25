@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaarshad25&label=Profile%20views&color=0e75b6&style=flat" alt="talhaarshad25" /> </p>
 
-- 🔭 I’m currently working on **Job APP**
+- 🔭 I’m currently working on **Real Estate APP**
 
 - 🌱 I’m currently learning **Getx,bloc,riverpod**
 
