@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Real Estate APP**
 
-- 🌱 I’m currently learning **Getx,bloc,riverpod**
+- 🌱 I’Can Work on **Getx,bloc,riverpod**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/talhaarshad](https://www.upwork.com/freelancers/talhaarshad)
 
